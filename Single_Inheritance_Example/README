@@ -1,4 +1,0 @@
-This program demonstrates the concept of Single Inheritance. 
-
-The Class 'Manager' is derived from the base class 'Employee'. 
-The employee class has attributes like name, salary and a display function, whereas the manager class has an additional attribute called department. 
